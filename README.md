@@ -13,9 +13,9 @@
   
   </div>
 
-## This project is perfect for your first pull request
+## This project is perfect for you pull requests
 
-🗣 **Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.**
+🗣 **Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt.**
 
 📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
 
@@ -42,60 +42,8 @@
 - Create a pull request
 - Star this repository
 
-# How to make your first Pull Request
-
-Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
-
-## 1. Add your profile picture to the folder
-
-Add a picture picture of your choice in `static/images/`. Accepted files are **png** and **jpg**, should be squared and minimum size 544x544 pixels. Ex.
-
-```
-static/images/<YOUR-USERNAME>.png
-```
-
-
-## 2. Add your profile information
-
-Create a markdown file in your folder following the convention `content/participant/<YOUR-USERNAME>.md`. Ex.
-
-```
-content/participant/<YOUR-USERNAME>.md/
-```
-
-Copy the next template into your file, delete the boilerplate data and fill the information with yours.
-
-```
----
-name: YOURNAME
-institution/company: INSTITUTION_NAME
-github:USERNAME
----
-```
-
-## 4. Wait for Pull Request to merge
-
-## 5. Celebrate - you've done your first pull request!!
-
-```py
-'''
-always make more then 4 pull request
-lets you have made only 4 pull request to different projects
-but one project is excluded from hackoctoberfest event then your pull request will not be count and 
-then you have remains 3 valid pull request if these projects is not excluded.
-if you fail to make 4 pull request then you cant get swags or t-shirts.
-i will recommend you make pull request to your own repo which is very very saffest side for you..
-keep in mind that repo has hacktoberfest topic..
-'''
-```
 
 ## Follow Me
-
-```py
-'''
-To get approval of the pull request much quicker (`Follow Me`)🚀
-'''
-```
 
 <tr><td align="center"><a href="https://github.com/SubhojeetDas1107"><kbd><img src="https://avatars3.githubusercontent.com/SubhojeetDas1107?size=100" width="100px;" alt=""/></kbd><br /><sub><b>SubhojeetDas1107</b></sub></a><br /></td>
 
