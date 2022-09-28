@@ -1,5 +1,6 @@
 # `Hacktoberfest 2022`
-![Hacktoberfest 2021](static/logo.png)
+<img width="2400" alt="Email Banners-Dark" src="https://user-images.githubusercontent.com/80981317/192709928-0231082d-5654-4f52-8fef-ed51d7ef9b83.png">
+
 
 
 ## Contributors of `Hacktoberfest 2022`
