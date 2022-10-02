@@ -13,7 +13,7 @@
   
   </div>
 
-## This project is perfect for you pull requests
+## This project is perfect for your pull requests
 
 🗣 **Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt.**
 
@@ -33,12 +33,12 @@
 
 ## Instructions-
 
-- Fork this Repository using the button at the top
-- Clone your forked repository to your pc ( git clone "url from clone option.)
-- Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` and `git checkout -b new-user`)
-- Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
-- Create a pull request
-- Star this repository
+- Star this repository.
+- Fork this Repository using the button at the top-right.
+- Clone your forked repository to your PC.(locally) ( "git clone url" from clone option.)
+- Create a new branch for your modifications (i.e. `git branch new-user` and check it out `git checkout new-user` and `git checkout -b new-user`)
+- Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`).
+- Create a pull request.
 
 
 ## Follow Me
