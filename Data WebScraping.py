@@ -4,7 +4,7 @@ import os
 items = pd.read_csv(r"C:\Users\ankit\Desktop\food item list.csv")
 items = items["Food Items"].tolist()    # Converting DataFrame into list
   
-root_path = "D:\\Foodify\\"      # Folder Path
+root_path = "D:\\Food Image\\"      # Folder Path
   
 for item in items:
     path = os.path.join(root_path, item)
@@ -23,7 +23,7 @@ for i in items[10:100]:
 
     browser = webdriver.Chrome(r'C:\Selenium\chromedriver.exe')
     browser.get('https://www.google.com/search?q='+str(i)+'&source=lnms&tbm=isch')
-    folder = ("D:/Foodify/"+str(i)+"/")
+    folder = ("D:/Food Image/"+str(i)+"/")
 
 
     # Open first 100 images except 25,50,75,100(non-image)
