@@ -55,11 +55,11 @@
 
  <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/85807431?v=4" width="130px;"><br><sub><b>
  Rajdeep Ghosh</b></sub><br>
-<a href="" target="_blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/rumbleFTW/" target="_blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
+<a href="https://www.linkedin.com/in/rumbleftw" target="_blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/rumbleFTW/" target="_blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
 
 <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/100219950?v=4" width="130px;"><br><sub><b>
  Souvik Banerjee</b></sub><br>
-<a href="" target="_blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/Souvik2376/" target="_blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
+<a href="https://www.linkedin.com/in/souvik-banerjee-b229a4237" target="_blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/Souvik2376/" target="_blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
 </tr>
 </tbody></table>
 
